@@ -5,7 +5,7 @@ This documentation provides an overview of the time travel simulation project. T
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Tean](#project-team)
+- [Project Team](#project-team)
 - [Project Events](#project-events)
 - [Project Scenario](#project-scenario)
 - [Restrictions](#restrictions)
