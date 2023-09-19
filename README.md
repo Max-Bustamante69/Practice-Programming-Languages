@@ -5,6 +5,7 @@ This documentation provides an overview of the time travel simulation project. T
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Project Tean](#project-team)
 - [Project Events](#project-events)
 - [Project Scenario](#project-scenario)
 - [Restrictions](#restrictions)
@@ -16,7 +17,21 @@ This documentation provides an overview of the time travel simulation project. T
 
 ## Introduction
 
-Provide a brief introduction to the project, explaining its purpose and goals.
+This project involves the creation of a doubly linked list to represent a series of unique temporal events. Each event is connected through pointers that can traverse both into the past and into the future. The project explores a scenario where events unfold, starting with an initial scientific investigation and leading to discoveries and interactions between two scientists. The objective is to manage these events and scientists within a consistent timeline while adhering to specific constraints to avoid temporal paradoxes.
+
+
+## Project Team
+
+This project was developed by the team composed of:
+
+- **Maximiliano Bustamante**
+  - Role: Coding structure and .cpp logic
+
+- **Valeria Hornung**
+  - Role: UML structuration and .h logic
+
+This team collaborated on the successful development and completion of this project.
+
 
 ## Project Events
 
