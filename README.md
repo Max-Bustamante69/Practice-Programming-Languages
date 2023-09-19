@@ -1,6 +1,6 @@
 # Time Travel Simulation Code Documentation
 
-This documentation provides an overview of the time travel simulation project. The project involves creating a doubly linked list to represent unique temporal events. Each node in the list represents a temporal event, and the pointers between nodes can point both to the past and the future.
+This documentation provides an overview of the time travel simulation project. The project involves creating a doubly linked list to represent unique temporal events. Each node in the list represents a temporal event, and the pointers between nodes can point both to the past and the future. This project is developed for the course "ST0244 Programming Languages" at Universidad EAFIT during the second semester of 2023.
 
 ## Table of Contents
 
